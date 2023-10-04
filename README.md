@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Banco em Java - README</title>
-  </head>
 <body>
   <h1>Banco em Java</h1>
   <p>Este é um projeto de um banco em Java que implementa os tipos de conta corrente, poupança e salário. O objetivo deste projeto é fornecer uma estrutura básica para gerenciar contas em um banco, permitindo a criação, consulta e transações em diferentes tipos de conta.</p>
